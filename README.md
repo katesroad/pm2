@@ -2,6 +2,7 @@
 
 - cluster mode: https://pm2.keymetrics.io/docs/usage/cluster-mode/
 - how cluster works in Node.js https://nodejs.org/api/cluster.html#cluster_how_it_works
+- pm2 in docker: https://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/
 
 
 ## Node
