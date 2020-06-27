@@ -1,0 +1,20 @@
+{
+  "name": "pm2",
+  "version": "1.0.0",
+  "description": "- cluster mode: https://pm2.keymetrics.io/docs/usage/cluster-mode/ - how cluster works in Node.js https://nodejs.org/api/cluster.html#cluster_how_it_works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katesroad/pm2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katesroad/pm2/issues"
+  },
+  "homepage": "https://github.com/katesroad/pm2#readme"
+}
